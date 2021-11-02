@@ -1,4 +1,3 @@
-- Hi, I’m @Latrags
 - Beep boop this message was generated manually
 
 <!---
